@@ -10,9 +10,6 @@ This project involves fine-tuning a BERT model to classify sequences of text int
   - [Training the Model](#training-the-model)
   - [Performing Inference](#performing-inference)
   - [Interacting with the API](#interacting-with-the-api)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [License](#license)
 
 ## Project Overview
 
@@ -34,24 +31,6 @@ The purpose of this project is to create a text classification model using BERT.
 - scikit-learn
 - requests
 
-### Installation
-
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
-    ```
-
-2. **Create and activate a virtual environment (optional but recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. **Install the required packages:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
